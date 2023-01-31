@@ -1,0 +1,4 @@
+name: RoyalUtils
+version: '${version}'
+main: me.cotyy.royalutils.RoyalUtils
+api-version: 1.19
